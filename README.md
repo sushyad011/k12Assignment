@@ -5,5 +5,4 @@
 3. Clone this project   
   cd to the root folder
   pip install -r requirements.txt
-4. Run the following commands:
-  Migrate and test the apis
+4.Migrate and test the apis
